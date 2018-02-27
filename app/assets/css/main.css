@@ -1,0 +1,34 @@
+
+.btn{
+    border: 1px solid #f257;
+    background: rgb(31, 37, 48);
+    padding: 5px 15px;
+    text-decoration: none; 
+    color:yellowgreen;
+    font-family: serif;
+    font-size: 15px;
+    border-radius: 8px;
+
+}
+.btn:hover{
+    border:1px solid rgb(31, 37, 48);
+    background: yellowgreen;
+    color:rgb(31, 37, 48);
+}
+
+.btn-primary{
+    background: rgba(14, 14, 85, 0.493);
+    color: beige
+}
+.btn-primary:hover{
+    background: rgb(125, 125, 255);
+    color: rgba(14, 14, 85, 0.493);
+}
+.btn-secondary{
+    background: rgb(113, 255, 208);
+    color: rgb(88, 105, 238)
+}
+.btn-secondary:hover{
+    background: rgb(88, 105, 238);
+    color:  rgb(113, 255, 208);
+}
